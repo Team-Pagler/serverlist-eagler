@@ -1,0 +1,2 @@
+# serverlist-eagler
+eagler serverlist
